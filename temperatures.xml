@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="temperatures.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<meteo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="temperatures.xsd">
+    <mesure date="2023-10-01">
+        <ville nom="Paris" temperature="18.5"/>
+        <ville nom="Lyon" temperature="20.0"/>
+        <ville nom="Marseille" temperature="22.3"/>
+    </mesure>
+    <mesure date="2023-10-02">
+        <ville nom="Paris" temperature="17.8"/>
+        <ville nom="Lyon" temperature="19.5"/>
+        <ville nom="Marseille" temperature="21.0"/>
+    </mesure>
+    <mesure date="2023-10-03">
+        <ville nom="Paris" temperature="16.0"/>
+        <ville nom="Lyon" temperature="18.2"/>
+        <ville nom="Marseille" temperature="20.5"/>
+    </mesure>
+    <mesure date="2023-10-04">
+        <ville nom="Paris" temperature="15.5"/>
+        <ville nom="Lyon" temperature="17.0"/>
+        <ville nom="Marseille" temperature="19.8"/>
+    </mesure>
+    <mesure date="2023-10-05">
+        <ville nom="Paris" temperature="14.0"/>
+        <ville nom="Lyon" temperature="16.5"/>
+        <ville nom="Marseille" temperature="18.0"/>
+    </mesure>
+    <mesure date="2023-10-06">
+        <ville nom="Paris" temperature="13.5"/>
+        <ville nom="Lyon" temperature="15.0"/>
+        <ville nom="Marseille" temperature="17.5"/>
+    </mesure>
+</meteo>
