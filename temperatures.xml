@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="temperatures.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
-<?xml-stylesheet type="text/xsl" href="temperatures.xsl"?>
+<?xml-stylesheet type="text/xsl" href="temperatures2.xsl"?>
 <meteo>
     <mesure date="2006-01-01">
         <ville nom="Rabat" temperature="20" />
